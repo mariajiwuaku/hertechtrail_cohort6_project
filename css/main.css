@@ -736,8 +736,8 @@ button.stroke.large, .button.stroke.large {
 	line-height: 5.4rem !important;
 }
 button.stroke:hover, .button.stroke:hover {
-	border: 3px solid #5f00cc;
-	color: #5f00cc;
+	border: 3px solid #00539c;
+	color: #00539c;
 }
 button::-moz-focus-inner, input::-moz-focus-inner {
 	border: 0;
@@ -1957,7 +1957,7 @@ header .logo a {
 	border-right: 1px solid rgba(200, 200, 200, 0.1);
 }
 .popup-modal .link-box a:hover {
-	background: #cc005f;
+	background: #00539c;
 	border: none;
 }
 @media only screen and (max-width:600px) {
@@ -2522,7 +2522,7 @@ footer .footer-social li {
 	padding: 0;
 }
 footer .footer-social li a {
-	color: #FFFFFF;
+	color:#000;
 }
 footer .copyright span {
 	display: inline-block;
@@ -2531,7 +2531,7 @@ footer .copyright span::after {
 	content: "|";
 	display: inline-block;
 	padding: 0 1rem 0 1.2rem;
-	color: rgba(255, 255, 255, 0.1);
+	color: rgba(236, 14, 14, 0.1);
 }
 footer .copyright span:last-child::after {
 	display: none;
