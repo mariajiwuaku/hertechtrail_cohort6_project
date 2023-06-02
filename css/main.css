@@ -1295,7 +1295,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #F1F1F1 url(https://images.pexels.com/photos/251225/pexels-photo-251225.jpeg?auto=compress&cs=tinysrgb&w=400) no-repeat center bottom;
+	background: #F1F1F1 url(../images/Maria.png) center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1327,10 +1327,10 @@ header .logo a {
 }
 .intro-content h1 {
 	color: #00539c;
-	font-family: "poppins-medium", sans-serif;
-	font-size: 8.4rem;
+	font-family: "poppins-small", sans-serif;
+	font-size: 2.4rem;
 	line-height: 1.071;
-	max-width: 900px;
+	max-width: 1300px;
 	margin-top: 0;
 	margin-bottom: .6rem;
 	margin-left: auto;
@@ -1346,6 +1346,7 @@ header .logo a {
 	text-transform: uppercase;
 	letter-spacing: .2rem;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+	transform: 5s;
 }
 .intro-content .intro-position {
 	font-family: "lora-regular", serif;
