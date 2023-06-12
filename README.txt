@@ -1,9 +1,15 @@
 
 ==================================================================================================
 *** PORTFOLIO WEBSITE
-This is my Captstone project from Hertectrail Academy Cohort 6.This is a personal portfolio website that showcases my work, skills, and experience. The website is designed to provide an overview of my background and highlight my projects and achievements
+This is my Captstone project from Hertectrail Academy Cohort 6.This is a personal portfolio website that showcases my work, skills, and experience. The website is designed to provide an overview of my background and highlight my projects and achievements.
 
-
+*** Description/ Overview
+This website is created with 5 pages 
+Home page: Provides a brief introduction and links to my social media pages.
+Portfolio page: Displays a collection of my projects with descriptions, screenshots, and links to live demos or source code repositories.
+About page: Provides detailed information about me.
+Contact page: Includes a contact form for visitors to reach out to me directly.
+main.css : includes all the styling on the page.
 ==================================================================================================
 
 
