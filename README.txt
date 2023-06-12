@@ -1,93 +1,56 @@
 
 ==================================================================================================
-
-KARDS is a modern and clean personal vCard website template. It has many cool features found
-in premium templates. It has timeline items, stats section, skillbars, working ajax form,
-frontend form validation, a portfolio section to showcase your works and many more. It looks 
-great on all devices from mobile to desktop. It's also retina ready so your site will look 
-crisp and sharp on any device. Kards is the ideal template for creating digital personal resume 
-and portfolio website.
+*** PORTFOLIO WEBSITE
+This is my Captstone project from Hertectrail Academy Cohort 6.This is a personal portfolio website that showcases my work, skills, and experience. The website is designed to provide an overview of my background and highlight my projects and achievements.
 
 ==================================================================================================
+*** Description/ Overview
+This website is created with 5 pages 
+Home page: Provides a brief introduction and links to my social media pages.
+Portfolio page: Displays a collection of my projects with descriptions, screenshots, and links to live demos or source code repositories.
+About page: Provides detailed information about me.
+Contact page: Includes a contact form for visitors to reach out to me directly.
+main.css : includes all the styling on the page.
 
 
+==================================================================================================
+Technologies Used
+HTML5
+CSS3
+JavaScript
+Bootstrap
+
+
+==================================================================================================
+Installation
+Forked from PrincessMaggy/hertechtrail_cohort6_project
+Clone the repository: git clone https://github.com/mariajiwuaku/hertechtrail_cohort6_project.git
+Navigate to the project directory: cd hertechtrail_cohort6_project install
+Open your web browser and visit http://localhost:3000 to view the website.
+
+==================================================================================================
+Deployment
+The website is automatically deployed to Netlify whenever changes are pushed to the main branch. You can check the deployment status using the badge above.
+You can view the live website at: https://mariagorettijiwuakuportfolio.netlify.app
+
+
+==================================================================================================
+Roadmap
+Enhance Responsive Design: Improve the website's responsiveness and ensure it looks great on various devices and screen sizes.
+Add Blog Section: Implement a blog section to share my thoughts, insights, and experiences related to my work and industry.
+Improve Accessibility: Enhance accessibility features to ensure the website is accessible to a wider range of users, including those with disabilities.
+Expand Project Showcase: Continuously add new projects to the portfolio and provide detailed case studies, including project goals, challenges, and solutions
+
+==================================================================================================
+Useful Resources
+A video guide from Coach Maggy https://drive.google.com/file/d/14q-Ze_LjKSQNrXS-3JguWvFyLLGpODq_/view?usp=sharing
+
+==================================================================================================
 LICENSE:
 KARDS is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
+(http://creativecommons.org/licenses/by/3.0/). 
 
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
-
-Under the following conditions:
-
-   Attribution - You must attribute the work in the manner specified by the 
-   author or licensor (but not in any way that suggests that they endorse you 
-   or your use of the work). 
-
-   For any reuse or distribution, you must make clear to others the license 
-   terms of this work
-
-   Any of these conditions can be waived if you get permission from the 
-   copyright holder
-
-Attribution: 
-	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE LINK:
-
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since KARDS is distributed for free, support is not offered. KARDS is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly at our website(http://www.styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
+==================================================================================================
 SOURCES AND CREDITS:
 
 I've used the following resources as listed.
@@ -125,6 +88,4 @@ Javascript Files:
 --------------------------------------------------------------------------------------------------------- 
 
 
-Thanks for downloading from Styleshout :)
-  
 
