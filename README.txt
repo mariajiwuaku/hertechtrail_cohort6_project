@@ -1,12 +1,8 @@
 
 ==================================================================================================
+*** PORTFOLIO WEBSITE
+This is my Captstone project from Hertectrail Academy Cohort 6.This is a personal portfolio website that showcases my work, skills, and experience. The website is designed to provide an overview of my background and highlight my projects and achievements
 
-KARDS is a modern and clean personal vCard website template. It has many cool features found
-in premium templates. It has timeline items, stats section, skillbars, working ajax form,
-frontend form validation, a portfolio section to showcase your works and many more. It looks 
-great on all devices from mobile to desktop. It's also retina ready so your site will look 
-crisp and sharp on any device. Kards is the ideal template for creating digital personal resume 
-and portfolio website.
 
 ==================================================================================================
 
