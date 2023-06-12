@@ -10,6 +10,41 @@ Portfolio page: Displays a collection of my projects with descriptions, screensh
 About page: Provides detailed information about me.
 Contact page: Includes a contact form for visitors to reach out to me directly.
 main.css : includes all the styling on the page.
+
+
+Technologies Used
+HTML5
+CSS3
+JavaScript
+Bootstrap
+
+Visuals:
+Home Page.
+About Page
+
+Portfolio Page
+
+Contact Page
+Installation
+Forked from PrincessMaggy/hertechtrail_cohort6_project
+Clone the repository: git clone https://github.com/mariajiwuaku/hertechtrail_cohort6_project.git
+Navigate to the project directory: cd hertechtrail_cohort6_project install
+Open your web browser and visit http://localhost:3000 to view the website.
+Deployment
+The website is automatically deployed to Netlify whenever changes are pushed to the main branch. You can check the deployment status using the badge above.
+You can view the live website at: https://mariagorettijiwuakuportfolio.netlify.app
+Roadmap
+Enhance Responsive Design: Improve the website's responsiveness and ensure it looks great on various devices and screen sizes.
+Add Blog Section: Implement a blog section to share my thoughts, insights, and experiences related to my work and industry.
+Improve Accessibility: Enhance accessibility features to ensure the website is accessible to a wider range of users, including those with disabilities.
+Expand Project Showcase: Continuously add new projects to the portfolio and provide detailed case studies, including project goals, challenges, and solutions
+License
+This project is licensed under the Kards
+Useful Resources
+A video guide from Coach Maggy https://drive.google.com/file/d/14q-Ze_LjKSQNrXS-3JguWvFyLLGpODq_/view?usp=sharing
+
+
+
 ==================================================================================================
 
 
